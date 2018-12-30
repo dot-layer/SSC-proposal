@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.12.1)  30 DEC 2018 09:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.12.1)  30 DEC 2018 10:01
 entering extended mode
 **proposal.tex
 (proposal.tex
@@ -1134,7 +1134,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-LaTeX Info: Redefining \microtypecontext on input line 58.
+LaTeX Info: Redefining \microtypecontext on input line 59.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1198,20 +1198,20 @@ Package microtype Warning: Unknown slot number of character
 <logo.jpg, id=1, 198.9834pt x 208.1376pt>
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg  used on input line 78.
+Package pdftex.def Info: logo.jpg  used on input line 79.
 (pdftex.def)             Requested size: 72.26999pt x 75.59642pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--101
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--103
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--105
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
 
  []
 
@@ -1219,12 +1219,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 104--105
 
 {C:/Users/Samuel/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./logo.jpg
 >]
-Underfull \hbox (badness 10000) in paragraph at lines 134--135
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--147
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
 
  []
 
@@ -1261,22 +1266,23 @@ File: utxsyb.fd 2000/12/14 v1.0
 File: upxsyc.fd 2000/12/14 v1.0
 ) [3] (proposal.aux) ) 
 Here is how much of TeX's memory you used:
- 6385 strings out of 493673
- 96776 string characters out of 3141527
+ 6412 strings out of 493673
+ 97092 string characters out of 3141527
  163719 words of memory out of 3000000
- 9496 multiletter control sequences out of 15000+200000
- 33746 words of font info for 125 fonts, out of 3000000 for 9000
+ 9499 multiletter control sequences out of 15000+200000
+ 38950 words of font info for 140 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  41i,5n,38p,1122b,235s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Samuel/AppData/Local/Programs/MiKTeX 2.9/fonts/
-enc/dvips/gfsdidot/didotec.enc}<C:/Users/Samuel/AppData/Local/Programs/MiKTeX 2
-.9/fonts/type1/public/gfsdidot/GFSDidot-Bold.pfb><C:/Users/Samuel/AppData/Local
-/Programs/MiKTeX 2.9/fonts/type1/public/gfsdidot/GFSDidot-Italic.pfb><C:/Users/
-Samuel/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/gfsdidot/GFSDidot.p
-fb>
-Output written on proposal.pdf (3 pages, 962581 bytes).
+enc/dvips/gfsdidot/didotOT1it.enc}{C:/Users/Samuel/AppData/Local/Programs/MiKTe
+X 2.9/fonts/enc/dvips/gfsdidot/didotec.enc}<C:/Users/Samuel/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/gfsdidot/GFSDidot-Bold.pfb><C:/Users/Samuel/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/gfsdidot/GFSDidot-Italic.pf
+b><C:/Users/Samuel/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/gfsdido
+t/GFSDidot.pfb>
+Output written on proposal.pdf (3 pages, 962766 bytes).
 PDF statistics:
- 26 PDF objects out of 1000 (max. 8388607)
+ 29 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 22022 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 30214 words of extra memory for PDF output out of 35830 (max. 10000000)
 
