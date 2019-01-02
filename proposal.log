@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.12.1)  30 DEC 2018 10:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.12.1)  1 JAN 2019 20:13
 entering extended mode
 **proposal.tex
 (proposal.tex
@@ -1201,17 +1201,17 @@ File: logo.jpg Graphic file (type jpg)
 Package pdftex.def Info: logo.jpg  used on input line 79.
 (pdftex.def)             Requested size: 72.26999pt x 75.59642pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--102
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--104
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--106
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
 
  []
 
@@ -1219,17 +1219,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 105--106
 
 {C:/Users/Samuel/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./logo.jpg
 >]
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--138
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--150
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
 
  []
 
@@ -1266,13 +1266,13 @@ File: utxsyb.fd 2000/12/14 v1.0
 File: upxsyc.fd 2000/12/14 v1.0
 ) [3] (proposal.aux) ) 
 Here is how much of TeX's memory you used:
- 6412 strings out of 493673
- 97092 string characters out of 3141527
+ 6406 strings out of 493673
+ 97032 string characters out of 3141527
  163719 words of memory out of 3000000
  9499 multiletter control sequences out of 15000+200000
- 38950 words of font info for 140 fonts, out of 3000000 for 9000
+ 38336 words of font info for 136 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 41i,5n,38p,1122b,235s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,4n,38p,1122b,235s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Samuel/AppData/Local/Programs/MiKTeX 2.9/fonts/
 enc/dvips/gfsdidot/didotOT1it.enc}{C:/Users/Samuel/AppData/Local/Programs/MiKTe
 X 2.9/fonts/enc/dvips/gfsdidot/didotec.enc}<C:/Users/Samuel/AppData/Local/Progr
@@ -1280,7 +1280,7 @@ ams/MiKTeX 2.9/fonts/type1/public/gfsdidot/GFSDidot-Bold.pfb><C:/Users/Samuel/A
 ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/gfsdidot/GFSDidot-Italic.pf
 b><C:/Users/Samuel/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/gfsdido
 t/GFSDidot.pfb>
-Output written on proposal.pdf (3 pages, 962772 bytes).
+Output written on proposal.pdf (3 pages, 962807 bytes).
 PDF statistics:
  29 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
