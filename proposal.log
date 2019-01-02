@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.12.1)  1 JAN 2019 20:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.12.1)  2 JAN 2019 14:55
 entering extended mode
 **proposal.tex
 (proposal.tex
@@ -1195,11 +1195,11 @@ Package microtype Warning: Unknown slot number of character
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<logo.jpg, id=1, 198.9834pt x 208.1376pt>
-File: logo.jpg Graphic file (type jpg)
-<use logo.jpg>
-Package pdftex.def Info: logo.jpg  used on input line 79.
-(pdftex.def)             Requested size: 72.26999pt x 75.59642pt.
+<logo.png, id=1, 501.875pt x 501.875pt>
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 79.
+(pdftex.def)             Requested size: 72.26999pt x 72.2684pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 102--103
 
@@ -1217,7 +1217,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 106--107
 
 [1
 
-{C:/Users/Samuel/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./logo.jpg
+{C:/Users/Samuel/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./logo.png
 >]
 Underfull \hbox (badness 10000) in paragraph at lines 128--129
 
@@ -1280,9 +1280,9 @@ ams/MiKTeX 2.9/fonts/type1/public/gfsdidot/GFSDidot-Bold.pfb><C:/Users/Samuel/A
 ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/gfsdidot/GFSDidot-Italic.pf
 b><C:/Users/Samuel/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/gfsdido
 t/GFSDidot.pfb>
-Output written on proposal.pdf (3 pages, 962807 bytes).
+Output written on proposal.pdf (3 pages, 192313 bytes).
 PDF statistics:
- 29 PDF objects out of 1000 (max. 8388607)
+ 31 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  30214 words of extra memory for PDF output out of 35830 (max. 10000000)
 
